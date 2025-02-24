@@ -9,3 +9,4 @@ Feature: Login
     And Je saisis un mot de passe "admin123"
     And Je clique sur le bouton Login
     Then Redirection vers la page Dashboard "Dashboard"
+    
